@@ -1,0 +1,2 @@
+# PurpleCopper
+NestJS Discord Bot
